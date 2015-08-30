@@ -4,14 +4,31 @@
 .navbar {
   background-color: #000;
 }
+.navbar-default .navbar-toggle {
+  border-color: #000;
+}
 header {
   color: #545F66;
 }
 .footer-above {
   background-color: #000;
 }
+#portfolio h2 {
+  margin-bottom: 20px;
+  color: #545F66;
+}
+#portfolio img {
+  margin: auto;
+}
 section.success {
   color: #545F66;
+}
+.modal-body {
+  color: #545F66;
+}
+.portfolio-modal .modal-content img {
+  margin: 0 5px 30px;
+  display: inline-block;
 }
 #contact {
   color: #545F66;
