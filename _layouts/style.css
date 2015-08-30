@@ -26,6 +26,9 @@ section.success {
 .modal-body {
   color: #545F66;
 }
+.modal-body h2 {
+  font-size: 32px !important;
+}
 .portfolio-modal .modal-content img {
   margin: 0 5px 30px;
   display: inline-block;
@@ -47,4 +50,11 @@ form .row:first-child .floating-label-form-group {
 }
 .btn-success:hover {
   background-color: #000;
+}
+.scroll-top .btn {
+  color: #545F66;
+}
+.scroll-top .btn:hover {
+  background-color: #fff;
+  border: none;
 }
