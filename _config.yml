@@ -1,0 +1,52 @@
+# Site settings
+title: Kramer/Saxl LLC
+email:
+url: https://kramersaxl.com
+description: Affordable apartments in Minneapolis
+skills: Affordable apartments in Minneapolis
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: D7D9D7 #80B3FF
+  #primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 000000 #FD6E8A
+  secondary-dark: F2C11F #A2122F
+
+# Footer settings
+footer:
+  copyright: Kramer/Saxl LLC
+  location: Location
+  social: Connect
+  contact: contact us
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: P.O. Box 62065
+  - line: Minneapolis, MN 55426
+  - line: (763) 521-4457
+
+# Content
+contact: 'P.O. Box 62065, Minneapolis, MN 55426'
+number: 'Office: 763-521-4457'
+fax: 'Fax: 815-846-1827'
+email: 'Email: info@kramersaxl.com'
+
+# Build settings
+markdown: kramdown
+permalink: pretty

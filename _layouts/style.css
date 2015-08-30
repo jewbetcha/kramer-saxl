@@ -1,0 +1,33 @@
+{% include css/bootstrap.min.css %}
+{% include css/main.css %}
+
+.navbar {
+  background-color: #000;
+}
+header {
+  color: #545F66;
+}
+.footer-above {
+  background-color: #000;
+}
+section.success {
+  color: #545F66;
+}
+#contact {
+  color: #545F66;
+}
+#contact h2 {
+  margin-bottom: 20px;
+}
+form .row:first-child .floating-label-form-group {
+  border-top: 1px solid #D7D9D7;
+}
+.floating-label-form-group {
+  border-bottom: 1px solid #D7D9D7;
+}
+.btn-success {
+  background-color: #545F66;
+}
+.btn-success:hover {
+  background-color: #000;
+}
