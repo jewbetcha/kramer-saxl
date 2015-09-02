@@ -1,14 +1,25 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
-
+body {
+  font-family: 'Raleway', sans-serif !important;
+}
+h2 {
+  text-transform: none;
+  font-family: 'Raleway', sans-serif !important;
+}
 .navbar {
   background-color: #000;
+  
+  font-family: 'Raleway', sans-serif;
 }
 .navbar-default .navbar-toggle {
   border-color: #000;
 }
 header {
   color: #545F66;
+}
+header .skills {
+  font-weight: bold !important;
 }
 .footer-above {
   background-color: #000;
