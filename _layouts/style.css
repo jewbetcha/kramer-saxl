@@ -8,6 +8,16 @@ h2 {
   text-transform: none;
   font-family: 'Raleway', sans-serif !important;
 }
+section a {
+  color: #000;
+  text-decoration: underline;
+}
+a:hover {
+  color: #b1892a;
+}
+a:visited {
+  color: #b1892a;
+}
 .navbar {
   background-color: #000;
 
@@ -44,6 +54,14 @@ section.success {
 .portfolio-modal .modal-content img {
   margin: 0 5px 30px;
   display: inline-block;
+}
+#about h2,
+#apply h2 {
+  text-decoration: underline;
+  margin-bottom: 20px;
+}
+#about {
+  padding-bottom: 0;
 }
 #contact {
   color: #545F66;
