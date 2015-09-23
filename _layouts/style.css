@@ -48,19 +48,27 @@ section.success {
 .modal-body {
   color: #545F66;
 }
-.modal-body h2 {
-  font-size: 32px !important;
+.modal-body h1 {
+  font-size: 44px !important;
+  margin-bottom: 20px;
+  text-transform: none;
+}
+.modal-body a {
+  color: #545F66;
+  text-decoration: underline;
 }
 .portfolio-modal .modal-content img {
   margin: 0 5px 30px;
   display: inline-block;
 }
 #about h2,
-#apply h2 {
+#apply h2,
+#residents h2 {
   text-decoration: underline;
   margin-bottom: 20px;
 }
-#about {
+#about,
+#apply {
   padding-bottom: 0;
 }
 #contact {

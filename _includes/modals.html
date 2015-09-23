@@ -12,25 +12,24 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>{{ post.title }}</h2>
-                            <hr class="star-primary">
+                            <h1>{{ post.title }}</h1>
                             <img src="img/apartments/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <img src="img/apartments/{{ post.secondary }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <img src="img/apartments/{{ post.third }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
-                                <li>Location:
-                                    <strong><a href="http://google.com/maps" target="_blank">{{ post.location }}</a>
+                                <li>Location (click for map):
+                                    <strong><a href="{{ post.mapLink }}" target="_blank">{{ post.location }}</a>
                                     </strong>
                                 </li>
                                 <li>Amenities:
                                     <strong>{{ post.amenities }}
                                     </strong>
                                 </li>
-                                <li>Notes:
+                                <!-- <li>Notes:
                                     <strong>{{ post.notes }}
                                     </strong>
-                                </li>
+                                </li> -->
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Back</button>
                         </div>
