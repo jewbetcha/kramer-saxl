@@ -4,7 +4,9 @@
 body {
   font-family: 'Raleway', sans-serif !important;
 }
-h2 {
+h2,
+h3,
+h4 {
   text-transform: none;
   font-family: 'Raleway', sans-serif !important;
 }
@@ -42,6 +44,9 @@ header .skills {
 #portfolio img {
   margin: auto;
 }
+.portfolio-item {
+  text-align: center;
+}
 section.success {
   color: #545F66;
 }
@@ -71,6 +76,9 @@ section.success {
 #apply {
   padding-bottom: 0;
 }
+.approval {
+  text-align: center;
+}
 #contact {
   color: #545F66;
 }
@@ -95,4 +103,10 @@ form .row:first-child .floating-label-form-group {
 .scroll-top .btn:hover {
   background-color: #fff;
   border: none;
+}
+.info-body p {
+  text-align: left !important;
+}
+.center {
+  text-align: center;;
 }

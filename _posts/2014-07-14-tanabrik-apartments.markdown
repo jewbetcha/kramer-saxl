@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 5
+modal-id: 3
 amenities: Free parking, close to bus stops, updated styling in common areas.
 img: apt3.jpg
 secondary: apt3.jpg

@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 5
 amenities: Nearby park, close to University of Minnesota, updated kitchens and appliances.
 img: nb1.jpg
 secondary: nb2.jpg

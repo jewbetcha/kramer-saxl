@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 6
+modal-id: 4
 amenities: Centrally located, close to bus stops, 1 and 2 bedrooms, laundry in building.
 img: broadway1.jpg
 secondary: broadway2.jpg
