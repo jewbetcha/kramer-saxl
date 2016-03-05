@@ -21,8 +21,7 @@ a:visited {
   color: #b1892a;
 }
 .navbar {
-  background-color: #000;
-
+  background-color: #545F66;
   font-family: 'Raleway', sans-serif;
 }
 .navbar-default .navbar-toggle {
@@ -30,6 +29,8 @@ a:visited {
 }
 header {
   color: #545F66;
+  background-color: #fff;
+  max-height: 375px;
 }
 header .skills {
   font-weight: bold !important;
