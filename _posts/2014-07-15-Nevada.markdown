@@ -2,9 +2,9 @@
 layout: default
 modal-id: 5
 amenities: Nearby park, close to University of Minnesota, updated kitchens and appliances.
-img: nb1.jpg
-secondary: nb2.jpg
-third: nb3.jpg
+img: nevada1.png
+secondary: nevada2.jpg
+third: 
 alt: image-alt
 location: 2360 and 2370 County Rd E W, New Brighton, MN 55112
 mapLink: https://www.google.com/maps/place/2370+Co+Rd+E,+New+Brighton,+MN+55112/@45.0503136,-93.2175186,17z/data=!3m1!4b1!4m2!3m1!1s0x52b32eed0ac77d5b:0x91cbb09dc43cc170

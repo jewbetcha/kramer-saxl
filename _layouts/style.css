@@ -110,3 +110,9 @@ form .row:first-child .floating-label-form-group {
 .center {
   text-align: center;;
 }
+#coupon-modal .modal-body {
+  border: 1px dashed black;
+}
+#coupon {
+  text-align: center;
+}
